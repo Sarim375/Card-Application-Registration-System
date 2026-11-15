@@ -32,7 +32,7 @@ I designed and built this system **from scratch**, starting from the file specif
 ## Key Features
 
 **Metadata-driven application form**
-- 100+ fields organised into 13 sections that mirror the card-management file specification.
+- 100+ fields organised into more than a dozen sections that mirror the card-management file specification.
 - Each field renders as the right control (text, number, amount, date, yes/no, lookup list) from its metadata.
 - The same metadata produces the client-side rules and the server-side validation, so both always agree.
 - Draft mode saves incomplete work; submit mode enforces every mandatory field and format.
