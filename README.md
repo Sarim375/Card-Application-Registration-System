@@ -59,6 +59,7 @@ I designed and built this system **from scratch**, starting from the file specif
 | Area | Technology |
 |---|---|
 | Back end | .NET 10, ASP.NET Core MVC, C# |
+| APIs | REST and GraphQL APIs (JSON) |
 | Data access | Dapper, Microsoft.Data.SqlClient, stored procedures, table-valued parameters |
 | Database | Microsoft SQL Server (triggers, filtered unique indexes, row versioning) |
 | Front end | Razor views, Bootstrap 5.3, Bootstrap Icons, jQuery Validation, vanilla JavaScript |
@@ -114,7 +115,7 @@ stateDiagram-v2
 
 ## Skills Demonstrated
 
-`ASP.NET Core MVC` · `C#` · `.NET 10` · `SQL Server` · `Dapper` · `Stored procedures` · `Metadata-driven design` · `Code generation` · `Role-based access control` · `Field-level security` · `Maker-checker workflow` · `Audit logging` · `Optimistic concurrency` · `Unit testing` · `Content Security Policy` · `UI design systems` · `Requirements analysis` · `Technical writing` · `Banking domain`
+`ASP.NET Core MVC` · `C#` · `.NET 10` · `SQL Server` · `Dapper` · `REST APIs` · `GraphQL` · `Stored procedures` · `Metadata-driven design` · `Code generation` · `Role-based access control` · `Field-level security` · `Maker-checker workflow` · `Audit logging` · `Optimistic concurrency` · `Unit testing` · `Content Security Policy` · `UI design systems` · `Requirements analysis` · `Technical writing` · `Banking domain`
 
 ---
 
